@@ -23,3 +23,18 @@ Topics Covered:
 
 Goal:
 Improve problem solving skills and prepare for coding interviews.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
+<!---LeetCode Topics End-->
