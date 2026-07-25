@@ -14,12 +14,12 @@
  * }
  */
 class Solution {
-    HashMap<Integer,Integer> map=new HashMap<>();
+    Set<Integer> map=new HashSet<>();
     public boolean findTarget(TreeNode root, int k) {
         if(root==null) return false;
-        if(map.containsKey(k-root.val)) return true;
+        if(map.contains(k-root.val)) return true;
 
-        map.put(root.val,0);
+        map.add(root.val);
         return findTarget(root.left,k) || findTarget(root.right,k);
     }
 }
