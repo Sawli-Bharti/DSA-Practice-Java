@@ -31,6 +31,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -40,6 +41,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -48,6 +50,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -56,13 +59,20 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
