@@ -28,6 +28,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -39,6 +40,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -49,6 +51,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -73,6 +76,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Two Pointers
