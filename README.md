@@ -75,4 +75,16 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
