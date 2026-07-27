@@ -19,7 +19,8 @@ class Solution {
         if(root==null) return 0;
         int left=depth(root.left);
         int right=depth(root.right);
-        max=Math.max(max,left+right);
+        int dia=left+right;
+        max=Math.max(max,dia);
         return 1+Math.max(left,right);
     }
     public int diameterOfBinaryTree(TreeNode root) {
