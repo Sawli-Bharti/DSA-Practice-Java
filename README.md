@@ -39,6 +39,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -68,6 +69,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
@@ -88,6 +90,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Two Pointers
 |  |
