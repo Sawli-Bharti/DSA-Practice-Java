@@ -29,6 +29,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -46,6 +47,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -61,6 +63,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -78,6 +81,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0501-find-mode-in-binary-search-tree) |
