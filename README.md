@@ -32,6 +32,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0099-recover-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -50,6 +51,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0099-recover-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -66,6 +68,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0099-recover-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -97,6 +100,7 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
