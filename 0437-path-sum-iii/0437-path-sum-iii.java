@@ -15,24 +15,22 @@
  */
 class Solution {
     private int  ans=0;
-    private void traverse(TreeNode root, int t){
+    private HashMap<Long,Integer> map=new HashMap<>();
+    private void solve(TreeNode root, int targetSum,long currSum){
         if(root==null) return;
-        solve(root,t,0);
-        traverse(root.left,t);
-        traverse(root.right,t);
-    }
-    private void solve(TreeNode root, int targetSum,long sum){
-        if(root==null) return;
-        sum+=root.val;
-        if(sum==targetSum){
-            ans++;
-        }
-        solve(root.left,targetSum,sum);
-        solve(root.right,targetSum,sum);
+        currSum+=root.val;
+        long rem=currSum-targetSum;
+        ans+=map.getOrDefault(rem,0);
+        map.put(currSum,map.getOrDefault(currSum,0)+1);
+        solve(root.left,targetSum,currSum);
+        solve(root.right,targetSum,currSum);
+        map.put(currSum,map.get(currSum)-1);
+        if(map.get(currSum)==0) map.remove(currSum);
     }
     public int pathSum(TreeNode root, int targetSum) {
         if(root==null) return 0;
-        traverse(root,targetSum);
+        map.put(0L,1);
+        solve(root,targetSum,0L);
         return ans;
     }
 }
