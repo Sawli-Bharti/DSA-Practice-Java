@@ -29,7 +29,7 @@ class Solution {
     public int maxPathSum(TreeNode root) {
         if(root==null) return 0;
         int sum=pathSum(root);
-        max=Math.max(max,pathSum(root));
+        max=Math.max(max,sum);
         return max;
     }
 }
