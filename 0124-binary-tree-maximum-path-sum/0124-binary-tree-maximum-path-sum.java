@@ -18,18 +18,15 @@ class Solution {
     
     private int  pathSum(TreeNode root){
         if(root==null) return 0;
-        int left=pathSum(root.left);
-        int right=pathSum(root.right);
+        int left=Math.max(0,pathSum(root.left));
+        int right=Math.max(0,pathSum(root.right));
         max=Math.max(max,left+right+root.val);
-        max=Math.max(max,left+root.val);
-        max=Math.max(max,right+root.val);
-        max=Math.max(max,root.val);
-        return (Math.max(left,right)<0)?root.val:Math.max(left,right)+root.val;
+        
+        return Math.max(left,right)+root.val;
     }
     public int maxPathSum(TreeNode root) {
         if(root==null) return 0;
-        int sum=pathSum(root);
-        max=Math.max(max,sum);
+        pathSum(root);
         return max;
     }
 }
