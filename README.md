@@ -32,6 +32,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0099-recover-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0113-path-sum-ii) |
@@ -77,6 +78,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0099-recover-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0113-path-sum-ii) |
@@ -100,6 +102,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0098-validate-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -148,4 +151,9 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
