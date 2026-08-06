@@ -137,6 +137,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -159,4 +160,8 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
