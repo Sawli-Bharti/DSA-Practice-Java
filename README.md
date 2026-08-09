@@ -111,6 +111,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0146-lru-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [3731-find-missing-elements](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3731-find-missing-elements) |
@@ -160,8 +161,17 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0146-lru-cache) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
