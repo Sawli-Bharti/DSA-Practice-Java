@@ -133,6 +133,7 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -174,4 +175,8 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0146-lru-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
