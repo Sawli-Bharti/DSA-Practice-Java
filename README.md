@@ -138,6 +138,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
@@ -179,4 +180,16 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## String
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
