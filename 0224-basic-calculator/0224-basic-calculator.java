@@ -8,14 +8,11 @@ class Solution {
                     op.pop();
          }
     }
-    public int calculate(String s) {
+    public int calculate(String sb) {
         Stack<Integer> st=new Stack<>();
         Stack<Character> op=new Stack<>();
-        StringBuilder sb=new StringBuilder();
-        for(char c:s.toCharArray()){
-            if(c!=' ') sb.append(c);
-        }
         int i=0;
+        boolean expectNum=true;
         while(i<sb.length()){
             char c=sb.charAt(i);
            if(c==')'){
@@ -23,6 +20,7 @@ class Solution {
                 if(!op.isEmpty()) op.pop();
                 value(st,op);
             }else if(c>='0' && c<='9'){
+                expectNum=false;
                 int num=0;
                 while(i<sb.length() && sb.charAt(i)>='0' && sb.charAt(i)<='9'){
                     num*=10;
@@ -33,8 +31,10 @@ class Solution {
                 value(st,op);
                 continue;
             }else if(c=='+' || c=='-' || c=='('){
-                if(c=='-' && (i==0 ||sb.charAt(i-1)=='(')) st.push(0);
+                
+                if(c=='-' && expectNum) st.push(0);
                 op.push(c);
+                expectNum=true;
             }
             i++;
         }
