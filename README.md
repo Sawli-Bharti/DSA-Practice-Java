@@ -142,6 +142,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
+| [0390-elimination-game](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0390-elimination-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -197,6 +198,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
+| [0390-elimination-game](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0390-elimination-game) |
 ## Game Theory
 |  |
 | ------- |
