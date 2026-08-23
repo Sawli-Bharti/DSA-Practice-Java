@@ -135,6 +135,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
@@ -146,6 +147,7 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
 | [0390-elimination-game](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0390-elimination-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
@@ -165,6 +167,7 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
 ## Divide and Conquer
 |  |
