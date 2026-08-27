@@ -147,6 +147,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0264-ugly-number-ii) |
@@ -169,6 +170,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0264-ugly-number-ii) |
@@ -230,6 +232,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0062-unique-paths) |
 | [1201-ugly-number-iii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1201-ugly-number-iii) |
 ## Number Theory
 |  |
