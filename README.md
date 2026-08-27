@@ -146,6 +146,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
@@ -167,6 +168,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
@@ -247,4 +249,8 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1201-ugly-number-iii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
