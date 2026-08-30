@@ -136,6 +136,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -173,6 +174,7 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0062-unique-paths](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0264-ugly-number-ii) |
@@ -264,4 +266,5 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
