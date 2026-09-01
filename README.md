@@ -176,6 +176,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0063-unique-paths-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
@@ -211,6 +212,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0072-edit-distance) |
 | [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
