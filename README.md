@@ -139,6 +139,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0064-minimum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0213-house-robber-ii) |
 | [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0746-min-cost-climbing-stairs) |
@@ -180,6 +181,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0072-edit-distance](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0746-min-cost-climbing-stairs) |
