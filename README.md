@@ -142,6 +142,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0213-house-robber-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0213-house-robber-ii) |
 | [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
@@ -166,6 +167,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [3731-find-missing-elements](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -184,6 +186,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0213-house-robber-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0313-super-ugly-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
 ## Divide and Conquer
@@ -234,6 +237,7 @@ Improve problem solving skills and prepare for coding interviews.
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
 ## Heap (Priority Queue)
 |  |
@@ -273,4 +277,8 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0064-minimum-path-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
