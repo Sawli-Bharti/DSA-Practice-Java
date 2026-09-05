@@ -149,6 +149,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -281,4 +282,8 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
