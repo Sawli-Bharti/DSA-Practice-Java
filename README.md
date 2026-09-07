@@ -192,6 +192,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
 ## Divide and Conquer
 |  |
@@ -225,6 +226,7 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0072-edit-distance](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0072-edit-distance) |
 | [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
+| [0940-distinct-subsequences-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0940-distinct-subsequences-ii) |
 ## Stack
 |  |
 | ------- |
