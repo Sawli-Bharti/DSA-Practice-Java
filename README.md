@@ -108,6 +108,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0875-koko-eating-bananas) |
 | [1201-ugly-number-iii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1201-ugly-number-iii) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0875-koko-eating-bananas) |
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
