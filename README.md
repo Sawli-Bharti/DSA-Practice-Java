@@ -50,6 +50,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0951-flip-equivalent-binary-trees](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
