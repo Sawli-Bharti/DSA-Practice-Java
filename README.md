@@ -123,6 +123,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
@@ -155,6 +156,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3904-smallest-stable-index-ii) |
@@ -217,6 +219,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
@@ -245,6 +248,7 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
 | [0390-elimination-game](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0390-elimination-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
