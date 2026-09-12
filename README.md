@@ -113,6 +113,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0700-search-in-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0875-koko-eating-bananas) |
 | [1201-ugly-number-iii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1201-ugly-number-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0875-koko-eating-bananas](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0875-koko-eating-bananas) |
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -180,6 +182,7 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -205,6 +208,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0746-min-cost-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
