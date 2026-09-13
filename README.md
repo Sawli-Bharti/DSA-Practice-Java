@@ -153,6 +153,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0875-koko-eating-bananas) |
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
@@ -300,6 +301,7 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0835-image-overlap) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
