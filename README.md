@@ -174,6 +174,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0343-integer-break](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0390-elimination-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0836-rectangle-overlap) |
 | [1201-ugly-number-iii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1201-ugly-number-iii) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -310,4 +311,8 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
