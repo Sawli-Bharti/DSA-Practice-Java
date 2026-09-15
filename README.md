@@ -139,6 +139,7 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
 | ------- |
@@ -210,6 +211,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0746-min-cost-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -245,6 +247,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0072-edit-distance](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0072-edit-distance) |
 | [0224-basic-calculator](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0224-basic-calculator) |
 | [0940-distinct-subsequences-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -264,6 +267,7 @@ Improve problem solving skills and prepare for coding interviews.
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
