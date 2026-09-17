@@ -113,6 +113,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0700-search-in-a-binary-search-tree](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0875-koko-eating-bananas) |
 | [1201-ugly-number-iii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1201-ugly-number-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0740-delete-and-earn](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0740-delete-and-earn) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3731-find-missing-elements) |
@@ -157,6 +159,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0835-image-overlap](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0875-koko-eating-bananas) |
 | [1386-cinema-seat-allocation](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -211,6 +214,7 @@ Improve problem solving skills and prepare for coding interviews.
 | [0740-delete-and-earn](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -323,4 +327,8 @@ Improve problem solving skills and prepare for coding interviews.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sawli-Bharti/DSA-Practice-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
